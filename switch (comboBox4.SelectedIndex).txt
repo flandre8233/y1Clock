@@ -1,0 +1,97 @@
+switch (comboBox4.SelectedIndex)
+                {
+                    case 0:
+                        UTFHour=1;
+                        break;
+                    case 1:
+                        UTFHour=2;
+                        break;
+                    case 2:
+                        UTFHour=2;
+                        break;
+                    case 3:
+                        UTFHour=3;
+                        break;
+                    case 4:
+                        UTFHour=3;
+                        UTFMinutes=30;
+                        break;
+                    case 5:
+                        UTFHour=4;
+                        break;
+                    case 6:
+                        UTFHour=5;
+                        break;
+                    case 7:
+                        UTFHour=5;
+                        UTFMinutes=30;
+                        break;
+                    case 8:
+                        UTFHour=6;
+                        break;
+                    case 9:
+                        UTFHour=7;
+                        break;
+                    case 10:
+                        UTFHour=8;
+                        break;
+                    case 11:
+                        UTFHour=9;
+                        break;
+                    case 12:
+                        UTFHour=9;
+                        UTFMinutes=30;
+                        break;
+                    case 13:
+                        UTFHour=10;
+                        break;
+                    case 14:
+                        UTFHour=11;
+                        break;
+                    case 15:
+                        UTFHour=12;
+                        break;
+                    case 16:
+                        UTFHour=-11;
+                        break;
+                    case 17:
+                        UTFHour=-10;
+                        break;
+                    case 18:
+                        UTFHour=-9;
+                        break;
+                    case 19:
+                        UTFHour=-8;
+                        break;
+                    case 20:
+                        UTFHour=-7;
+                        break;
+                    case 21:
+                        UTFHour=-7;
+                        break;
+                    case 22:
+                        UTFHour=-6;
+                        break;
+                    case 23:
+                        UTFHour=-5;
+                        break;
+                    case 24:
+                        UTFHour=-5;
+                        break;
+                    case 25:
+                        UTFHour=-4;
+                        break;
+                    case 26:
+                        UTFHour=-3;
+                        UTFMinutes=30;
+                        break;
+                    case 27:
+                        UTFHour=-3;
+                        break;
+                    case 28:
+                        UTFHour=-3;
+                        break;
+                    case 29:
+                        UTFHour=-1;
+                        break;
+                }

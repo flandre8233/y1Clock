@@ -1,0 +1,53 @@
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\bin\Debug\Clock.exe.config
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\bin\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\bin\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.Form2.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\bin\Debug\Clock.exe.config
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.Form1.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.Form2.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\bin\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\bin\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\bin\Debug\Clock.exe.config
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\bin\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\bin\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.Form1.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.Form2.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Backup\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.Form3.resources
+C:\University Folder\visual studio 2012 -- folder\Clock\Clock\obj\Debug\Clock.Form3.resources
+C:\University Folder\visual studio 2012 -- folder\Clock - Copy\Clock\obj\Debug\Clock.Form4.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\bin\Debug\Clock.exe.config
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\bin\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\bin\Debug\Clock.pdb
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form1.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form2.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form3.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form4.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form5.resources
+C:\University Folder\visual studio 2012 -- folder\Clock now\Clock\obj\Debug\Clock.Form6.resources
+C:\University Folder\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\bin\Debug\Clock.exe.config
+C:\University Folder\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\obj\Debug\Clock.exe
+C:\University Folder\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\obj\Debug\Clock.pdb
+C:\大學檔案區\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\bin\Debug\Clock.exe.config
+C:\大學檔案區\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\obj\Debug\Clock.exe
+C:\大學檔案區\visual studio 2012 -- folder\期中作業\製成品\Clock 1.32 BETA F\Clock\obj\Debug\Clock.pdb
